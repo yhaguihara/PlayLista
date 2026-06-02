@@ -1,0 +1,26 @@
+
+.musica {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 25px;
+    color: black;
+    margin-top: 5px;
+    align-items: center;
+} 
+
+.musica audio {
+    width: 200px;
+    align-items: center;
+}
+
+.musica img {
+    width: 200px;
+    height: 100px;
+    margin-left: 0%;
+    border: solid black;
+    margin-top: 25px;
+}
